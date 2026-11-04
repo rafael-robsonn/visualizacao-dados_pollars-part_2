@@ -247,7 +247,7 @@ Notebooks originais: **Aula 14 (Visualização de Dados com Python)** e **Aula 1
 
 <div align="center">
 
-Feito com ☕, 🐍 e ⚡ Polars
+Feito com 🐍 e ⚡ Polars
 
 ⭐ Se ajudou, deixa uma estrela no repo!
 
